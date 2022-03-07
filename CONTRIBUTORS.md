@@ -10,6 +10,7 @@ video tutorials.
  - Matt Arsenault
  - ashishgamedev
  - David Avedissian
+ - Luca Bacci
  - Keith Bauer
  - John Bartholomew
  - Coşku Baş
@@ -58,6 +59,7 @@ video tutorials.
  - Ahmad Fatoum
  - Felipe Ferreira
  - Michael Fogleman
+ - Jason Francis
  - Gerald Franz
  - Mário Freitas
  - GeO4d
@@ -80,6 +82,7 @@ video tutorials.
  - Paul Holden
  - Warren Hu
  - Charles Huber
+ - illustris
  - InKryption
  - IntellectualKitty
  - Aaron Jacobs
@@ -182,12 +185,15 @@ video tutorials.
  - Ali Sherief
  - Yoshiki Shibukawa
  - Dmitri Shuralyov
+ - Joao da Silva
+ - Daniel Sieger
  - Daniel Skorupski
  - Anthony Smith
  - Bradley Smith
  - Cliff Smolinsky
  - Patrick Snape
  - Erlend Sogge Heggen
+ - Olivier Sohn
  - Julian Squires
  - Johannes Stein
  - Pontus Stenetorp
